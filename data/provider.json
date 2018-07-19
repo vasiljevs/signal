@@ -1,0 +1,14 @@
+{
+  "provider": {
+    "24705": [
+        {
+          "id": "0",
+          "region": "0",
+          "location": {
+            "latitude": "00.000000",
+            "longtitude": "00.000000"
+        }
+      }
+    ]
+  }
+}
