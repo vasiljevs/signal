@@ -12,7 +12,7 @@ A map of cellular systems in Latvia.
 | __CID__ | Cell Identifier (ID) | 2082071 |
 
 
-## Operator - BITE Latvija, SIA
+## Operator - BITE Latvija, SIA 
 
 ### ID
 | MCC | MNC |
@@ -43,6 +43,8 @@ A map of cellular systems in Latvia.
 + 2G (GSM) - __9__
 + 3G (WCDMA) - __23__
 + 4G (LTE) - __226__
+
+__Company:__ https://www.firmas.lv/profile/bite-latvija-sia/000374242
 
 ## License
 Repository is licensed under the [MIT](LICENSE) license.
